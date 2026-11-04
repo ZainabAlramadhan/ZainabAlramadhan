@@ -25,8 +25,10 @@ Imam Abdulrahman Bin Faisal University | 2023 – 2027
 ### Projects
 | Project | Description |
 |---|---|
-| [network-security-labs](https://github.com/ZainabAlramadhan/network-security-labs) | DNS attacks, DNSSEC, and IP ACL labs |
-| [reverse-engineering-labs](https://github.com/ZainabAlramadhan/reverse-engineering-labs) | Binary analysis write-ups using IDA and WinDbg |
+| [ethical-hacking-labs](https://github.com/ZainabAlramadhan/ethical-hacking-labs) | Network scanning, enumeration, and vulnerability assessment with Nmap and OpenVAS |
+| [network-security-labs](https://github.com/ZainabAlramadhan/network-security-labs) | ACLs, router hardening and AAA, IPsec VPNs, OpenSSL/GPG, DNSSEC |
+| [digital-forensics-labs](https://github.com/ZainabAlramadhan/digital-forensics-labs) | Evidence validation, disk image analysis, and file header recovery with Autopsy and WinHex |
+| [reverse-engineering-labs](https://github.com/ZainabAlramadhan/reverse-engineering-labs) | Static and dynamic analysis of Windows binaries with IDA and WinDbg |
 | [machine-learning-labs](https://github.com/ZainabAlramadhan/machine-learning-labs) | 10 labs: regression, classification, and clustering with Scikit-learn |
 | CTF Challenge Set | Multi-category CTF challenges: web exploitation, cryptography, network forensics |
 | BMS Security Research *(in progress)* | Cyberattack detection and response for Building Management Systems |
@@ -35,7 +37,7 @@ Imam Abdulrahman Bin Faisal University | 2023 – 2027
 | Area | Skills |
 |---|---|
 | Security | Penetration Testing, Network Security, Digital Forensics, Risk Assessment |
-| Tools | Kali Linux, Wireshark, FTK Imager, IDA, WinDbg, Cisco Packet Tracer |
+| Tools | Kali Linux, Nmap, OpenVAS, Wireshark, Autopsy, FTK Imager, WinHex, IDA, WinDbg, Cisco Packet Tracer |
 | Programming | Python, Java, C++ |
 | Machine Learning | Pandas, Scikit-learn, Jupyter |
 
