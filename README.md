@@ -11,6 +11,11 @@ Currently seeking a **co-op opportunity** in cybersecurity.
 
 ---
 
+## Achievements
+- **Black Hat CTF:** Qualified for the finals
+- **Aramco Consulting Case Championship 2026:** Top 10% of teams (Team Uncharted)
+- **KAUST Academy Cybersecurity Program:** Advanced to Level 3 of 4
+
 ## Selected Work
 
 | Highlight | Repository |
@@ -48,6 +53,7 @@ Currently seeking a **co-op opportunity** in cybersecurity.
 - Led content creation, event promotion, and digital communications for the club
 
 **Aramco Consulting Case Championship 2026** | Team Uncharted
+- Placed in the top 10% of competing teams
 
 ## Certifications
 - CompTIA Security+
