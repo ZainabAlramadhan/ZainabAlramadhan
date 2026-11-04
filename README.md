@@ -25,9 +25,9 @@ Imam Abdulrahman Bin Faisal University | 2023 – 2027
 ### Projects
 | Project | Description |
 |---|---|
-| [network-security-labs](https://github.com/ZainabRam90/network-security-labs) | DNS attacks, DNSSEC, and IP ACL labs |
-| [reverse-engineering-labs](https://github.com/ZainabRam90/reverse-engineering-labs) | Binary analysis write-ups using IDA and WinDbg |
-| [machine-learning-labs](https://github.com/ZainabRam90/machine-learning-labs) | 10 labs: regression, classification, and clustering with Scikit-learn |
+| [network-security-labs](https://github.com/ZainabAlramadhan/network-security-labs) | DNS attacks, DNSSEC, and IP ACL labs |
+| [reverse-engineering-labs](https://github.com/ZainabAlramadhan/reverse-engineering-labs) | Binary analysis write-ups using IDA and WinDbg |
+| [machine-learning-labs](https://github.com/ZainabAlramadhan/machine-learning-labs) | 10 labs: regression, classification, and clustering with Scikit-learn |
 | CTF Challenge Set | Multi-category CTF challenges: web exploitation, cryptography, network forensics |
 | BMS Security Research *(in progress)* | Cyberattack detection and response for Building Management Systems |
 
