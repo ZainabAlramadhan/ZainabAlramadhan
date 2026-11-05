@@ -21,6 +21,11 @@ Open to **co-op opportunities** in cybersecurity.
 - Level 3 of 4, **KAUST Academy Cybersecurity Program**
 - Media Leader, **IAU Cybersecurity Club**
 
+## Featured Project
+**[BMS Modbus Honeypot](https://github.com/ZainabAlramadhan/bms-modbus-honeypot)**: a decoy building controller that records Modbus TCP attacks and maps them to MITRE ATT&CK for ICS. It includes an attack simulator and a threat dashboard, and detected every simulated attack stage, from reconnaissance to life-safety tampering.
+
+[![BMS Modbus Honeypot dashboard](https://raw.githubusercontent.com/ZainabAlramadhan/bms-modbus-honeypot/main/docs/dashboard.png)](https://github.com/ZainabAlramadhan/bms-modbus-honeypot)
+
 ## Projects
 | Repository | What's inside |
 |---|---|
