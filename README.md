@@ -16,9 +16,9 @@ Cyber Security and Digital Forensics student at Imam Abdulrahman Bin Faisal Univ
 Open to **co-op opportunities** in cybersecurity.
 
 ## Highlights
-- Finalist, **Black Hat CTF**
-- Top 10%, **Aramco Consulting Case Championship 2026**
-- Level 3 of 4, **KAUST Academy Cybersecurity Program**
+- Finalist, **Black Hat MEA 2026 CTF** (team)
+- Top 3%, **KAUST Academy × NCA Cybersecurity Program**: one of 100 to reach Stage 3, out of ~3,000
+- Team Leader, top 10% of 2,000+ teams, **Aramco Consulting Case Championship 2026**
 - Media Leader, **IAU Cybersecurity Club**
 
 ## Featured Project
